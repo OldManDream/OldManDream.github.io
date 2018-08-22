@@ -1372,3 +1372,30 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r1rDt5KPp0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r1rDt5KPp0 .title {
+  margin-bottom: 2rem;
+}
+.cid-r1rDt5KPp0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r1rDt5KPp0 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r1rDt5KPp0 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r1rDt5KPp0 .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r1rDt5KPp0 .input-group-btn {
+  display: block;
+  text-align: center;
+}
